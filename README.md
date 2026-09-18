@@ -7,7 +7,7 @@
 | **Student** | *Jose Luis Pascual* |
 | **Section** | *TX33* |
 | **Professor** | *Mar Eli C. Sagsagat* |
-| **Live Demo** | [https://your-subdomain.infinityfreeapp.com/](https://jolo-pos.site.je) |
+| **Live Demo** | [https://jolo-pos.site.je]|
 | **Repository** | https://github.com/jppascual-ux/IT0049-TFA2-CodeIgniter-POS |
 
 ---

@@ -4,11 +4,11 @@
 | | |
 |---|---|
 | **Course** | IT0049 – Web System Technologies |
-| **Student** | *(your name)* |
-| **Section** | *(your section)* |
-| **Professor** | *(professor name)* |
-| **Live Demo** | https://your-subdomain.infinityfreeapp.com/ |
-| **Repository** | https://github.com/YOUR-USERNAME/IT0049-TFA2-CodeIgniter-POS |
+| **Student** | *Jose Luis Pascual* |
+| **Section** | *TX33* |
+| **Professor** | *Mar Eli C. Sagsagat* |
+| **Live Demo** | [https://your-subdomain.infinityfreeapp.com/](https://jolo-pos.site.je) |
+| **Repository** | https://github.com/jppascual-ux/IT0049-TFA2-CodeIgniter-POS |
 
 ---
 
